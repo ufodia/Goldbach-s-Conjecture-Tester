@@ -16,7 +16,7 @@ This Python script tests the validity of Goldbach's Conjecture, which states tha
 
 3. **Testing Options:**
    - The script provides two testing options:
-     - **Option 1:** Tests all even numbers starting from 4 × 10¹⁸, continuing indefinitely.
+     - **Option 1:** Tests all even numbers starting from 4 × 10¹⁸, continuing indefinitely. This starting point is chosen because Goldbach's Conjecture has been verified for all even numbers up to 4 × 10¹⁸ through extensive computational efforts.
      - **Option 2:** Tests even numbers within a user-specified range.
 
 4. **Disproving Goldbach's Conjecture:**
