@@ -45,4 +45,4 @@ Feel free to fork this repository and contribute improvements or optimizations.
 This project is licensed under the MIT License.
 
 ## Donate: 
-**BTC**: `1DDus3a5DnugwXkWdVMSYcH1tZ2jMYXfi1`
+**BTC**: `1GZdNtQYa2DN4b3hLekrYErv9c8WLqbBTm`
